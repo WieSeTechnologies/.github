@@ -3,7 +3,7 @@
 <!-- Badges -->
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=astro,php,html,css,js,tailwind,mysql,python" height="40"/>
+    <img src="https://skillicons.dev/icons?i=astro,php,html,scss,css,ts,js,tailwind,mysql,python" height="40"/>
 </p>
 
 Welcome to the WieSe Technology GitHub profile! We are a small team of developers who are passionate about creating new and exciting projects.
