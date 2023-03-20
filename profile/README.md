@@ -8,7 +8,6 @@
 
 Welcome to the WieSe Technology GitHub profile! We are a small team of developers who are passionate about creating new and exciting projects.
 
-
 ## Contact 📬
 
 *Coming Soon*
