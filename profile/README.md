@@ -1,4 +1,4 @@
-<h1 align="center">WieSe Technology</h1>
+<h1 align="center">WieSe Technologies</h1>
 
 <!-- Badges -->
 
