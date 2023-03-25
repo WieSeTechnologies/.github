@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,flutter,dart" height="40"/>
+    <img src="https://skillicons.dev/icons?i=python,flutter,dart,mysql" height="40"/>
 </p>
 
 Welcome to the WieSe Technology GitHub profile! We are a small team of developers who are passionate about creating new and exciting projects.
