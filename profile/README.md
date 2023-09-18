@@ -14,7 +14,7 @@ Welcome to the WieSe Technologies GitHub profile! We are a small team of develop
 
 ## Contact 📬
 
-*Coming Soon*
+**Coming Soon**
 
 
 <div align="right" style="text-align: right;">
