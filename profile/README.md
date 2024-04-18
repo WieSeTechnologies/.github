@@ -18,5 +18,5 @@ Welcome to the WieSe Technologies GitHub profile! We are a small team of develop
 
 
 <div align="right" style="text-align: right;">
-    <p>© 2023 <a href="https://github.com/WieSeTechnologies">WieSe Technologies</a> (<a href="https://github.com/AstragoDE">AstragoDE</a> & <a href="https://github.com/byRaiZe">byRaiZe</a>)</p>
+    <p>© 2024 <a href="https://github.com/WieSeTechnologies">WieSe Technologies</a> (<a href="https://github.com/AstragoDE">AstragoDE</a> & <a href="https://github.com/byRaiZe">byRaiZe</a>)</p>
 </div>
