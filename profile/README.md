@@ -14,5 +14,4 @@ _Coming Soon_
 
 <div align="right" style="text-align: right;">
     <p>© 2023 - 2024 <a href="https://github.com/WieSeTechnology">WieSe Technology</a> (<a href="https://github.com/AstragoDE">AstragoDE</a> & <a href="https://github.com/byRaiZe">byRaiZe</a>)</p>
-34194ee091a0bdccef80a444d2bc4bf33ed603
 </div>
